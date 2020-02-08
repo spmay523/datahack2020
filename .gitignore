@@ -1,6 +1,7 @@
 # possible data files
 .csv
 .tsv
+.json
 
 # .env
 .env
@@ -38,6 +39,7 @@ home/.cache
 
 # RStudio files
 .Rproj.user/
+.Rproj
 
 # produced vignettes
 vignettes/*.html
@@ -56,3 +58,4 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+.Rproj.user
