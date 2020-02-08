@@ -9,7 +9,7 @@ home/.cache
 *.swp
 
 # R specific ----
-datahack2020.Rproj
+*.Rproj
 
 # History files
 .Rhistory
