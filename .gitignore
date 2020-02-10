@@ -1,4 +1,5 @@
 # possible data files
+data/data/*
 .csv
 .tsv
 .json
@@ -13,6 +14,7 @@ home/.jupyter
 home/.local
 home/.rstudio
 home/.cache
+sandbox/*
 
 *.swp
 
