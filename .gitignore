@@ -19,6 +19,7 @@ sandbox/*
 *.swp
 
 # R specific ----
+*.Rproj
 
 # History files
 .Rhistory
